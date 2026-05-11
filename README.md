@@ -129,7 +129,7 @@ Insurance_EDA/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Harshavardhanrao-03/Insurance_EDA.git
+git clone [https://github.com/Harshavardhanrao-03/Insurance_EDA.git](https://github.com/Harshavardhanrao-03/Insurance_Cost_Prediction_System)
 ```
 
 ---
