@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(
+        to right,
+        #1e3c72,
+        #2a5298
+    );
+
+    min-height: 100vh;
+}
+
+.main-card{
+    border-radius: 20px;
+}
+
+.title{
+    font-weight: bold;
+    color: #1e3c72;
+}
+
+.predict-btn{
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.result-text{
+    color: #198754;
+    font-weight: bold;
+}
